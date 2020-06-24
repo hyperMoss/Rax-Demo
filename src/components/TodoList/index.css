@@ -1,0 +1,12 @@
+.item{
+  background: #fefefe;
+  height: 2rem;
+  display: flex;
+  justify-content: space-between;
+}
+.list{
+  box-sizing: border-box;
+  display: block;
+  margin: 8rpx 0;
+  padding: 0;
+}
